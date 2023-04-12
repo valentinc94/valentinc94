@@ -1,4 +1,4 @@
-# 💫 About Me:
+# [django] About Me:
 🔭 I am a software engineer with extensive experience in building complex solutions and implementing business logic for a wide range of companies, including startups, as a backend developer<br>
 
 
