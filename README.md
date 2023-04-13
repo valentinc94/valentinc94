@@ -12,10 +12,6 @@
 
 [![Atua](https://www.marketplace.atuarental.com/images/icons/logo.svg)](https://apps.apple.com/ec/app/atua/id1643579766)
 
-<a href="https://monet.com.co/">
-  <img src="https://bookface-images.s3.amazonaws.com/small_logos/9022bb07e07eed25b12e81e3b1bc070e64b2e31b.png" alt="Monet" width="200" height="200"/>
-</a>
-
 <a href="https://downloadsendit.com/download/">
   <img src="https://downloadsendit.com/wp-content/uploads/2022/12/senditlogo_white.svg" alt="Sendit" width="200"/>
 </a>
