@@ -1,7 +1,7 @@
 Hi, how are you? 👋
  
 - 😎 I am a software engineer with experience in developing intricate solutions and implementing sophisticated business logic for a diverse portfolio of companies, ranging from startups to established enterprises. I have honed my skills in creating robust and efficient software that meets the unique requirements of each client, and I am passionate about finding innovative solutions to complex technical challenges.<br>
-- 📫 Shoot me an [Email](valentincc94m@gmail.com) or add me on [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/valentinc94/) :)
+- 📫 Shoot me an [Email](valentincc94m@gmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/valentinc94/) :)
 
 
 ## 🌐 Socials:
