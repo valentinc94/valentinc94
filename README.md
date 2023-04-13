@@ -13,19 +13,25 @@ Hi, how are you? 👋
 # 📊 Projects:
 
 <a href="https://monet.com.co/">
-  <img src="https://bookface-images.s3.amazonaws.com/small_logos/9022bb07e07eed25b12e81e3b1bc070e64b2e31b.png" alt="Monet" width="200"/>
+  <img src="https://bookface-images.s3.amazonaws.com/small_logos/9022bb07e07eed25b12e81e3b1bc070e64b2e31b.png" alt="Monet" width="200" height="150"/>
 </a>
+
+<br>
 
 <a href="https://apps.apple.com/ec/app/atua/id1643579766">
-  <img src="https://www.marketplace.atuarental.com/images/icons/logo.svg" alt="Atua" width="200"/>
+  <img src="https://www.marketplace.atuarental.com/images/icons/logo.svg" alt="Atua" width="200" height="150"/>
 </a>
 
-<a href="https://downloadsendit.com/download/">
-  <img src="https://downloadsendit.com/wp-content/uploads/2022/12/senditlogo_white.svg" alt="Sendit" width="200"/>
-</a>
+<br>
 
 <a href="https://downloadsendit.com/download/">
-  <img src="https://downloadsendit.com/wp-content/uploads/2022/12/senditlogo_white.svg" alt="Dendama" width="200"/>
+  <img src="https://downloadsendit.com/wp-content/uploads/2022/12/senditlogo_white.svg" alt="Sendit" width="200" height="150"/>
+</a>
+
+<br>
+
+<a href="https://downloadsendit.com/download/">
+  <img src="https://downloadsendit.com/wp-content/uploads/2022/12/senditlogo_white.svg" alt="Dendama" width="200" height="150"/>
 </a>
 
  
