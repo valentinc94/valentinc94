@@ -30,8 +30,8 @@ Hi, how are you? 👋
 
 <br>
 
-<a href="https://downloadsendit.com/download/">
-  <img src="https://downloadsendit.com/wp-content/uploads/2022/12/senditlogo_white.svg" alt="Dendama" width="200" height="150"/>
+<a href="https://play.google.com/store/apps/details?id=jp.co.dendama.dendama_android&hl=en&gl=IN">
+  <img src="https://play-lh.googleusercontent.com/FdUIElNfIMJQkzg0b1lIURtmdMSiANL4TH9g-IMZtGTYpZ0TpO_RuXCOEg5TB0neRA=w480-h960-rw" alt="Dendama" width="200" height="150"/>
 </a>
 
  
