@@ -12,8 +12,7 @@
 
 [![Atua](https://www.marketplace.atuarental.com/images/icons/logo.svg)](https://apps.apple.com/ec/app/atua/id1643579766)
 
-[![Sendit](https://downloadsendit.com/wp-content/uploads/2022/12/senditlogo_white.svg | width=200)](https://downloadsendit.com/download/)
+[![Sendit](https://downloadsendit.com/wp-content/uploads/2022/12/senditlogo_white.svg)](https://downloadsendit.com/download/)
 
-[![Sendit](https://downloadsendit.com/wp-content/uploads/2022/12/senditlogo_white.svg =200x)](https://downloadsendit.com/download/)
  
 
