@@ -14,7 +14,7 @@ Hi, how are you? 👋
 
 | Proyecto | Descripción | Imagen |
 | --- | --- | --- |
-| [Monet](https://monet.com.co/) | Solución para gestión de facturación y contabilidad | <a href="https://monet.com.co/"><img src="https://bookface-images.s3.amazonaws.com/small_logos/9022bb07e07eed25b12e81e3b1bc070e64b2e31b.png" alt="Monet" width="200" height="150"/></a> |
+| [Monet](https://monet.com.co/) | Monet provides Instant cash-advances to employees in Latin America. We are a mobile app available to any employee with a recurring income and a bank account. | <a href="https://monet.com.co/"><img src="https://bookface-images.s3.amazonaws.com/small_logos/9022bb07e07eed25b12e81e3b1bc070e64b2e31b.png" alt="Monet" width="200" height="150"/></a> |
 | [Atua](https://apps.apple.com/ec/app/atua/id1643579766) | Aplicación móvil para alquiler de vehículos | <a href="https://apps.apple.com/ec/app/atua/id1643579766"><img src="https://www.marketplace.atuarental.com/images/icons/logo.svg" alt="Atua" width="200" height="150"/></a> |
 | [Sendit](https://downloadsendit.com/download/) | Plataforma de transferencia de archivos | <a href="https://downloadsendit.com/download/"><img src="https://downloadsendit.com/wp-content/uploads/2022/12/senditlogo_white.svg" alt="Sendit" width="200" height="150"/></a> |
 | [Dendama](https://play.google.com/store/apps/details?id=jp.co.dendama.dendama_android&hl=en&gl=IN) | Juego móvil de habilidad y estrategia | <a href="https://play.google.com/store/apps/details?id=jp.co.dendama.dendama_android&hl=en&gl=IN"><img src="https://play-lh.googleusercontent.com/FdUIElNfIMJQkzg0b1lIURtmdMSiANL4TH9g-IMZtGTYpZ0TpO_RuXCOEg5TB0neRA=w480-h960-rw" alt="Dendama" width="200" height="150"/></a> |
