@@ -1,6 +1,7 @@
 Hi, how are you? 👋
-😎 I am a software engineer with extensive experience in building complex solutions and implementing business logic for a wide range of companies, including startups, as a backend developer<br>
-📫 Shoot me an Email or add me on LinkedIn :)
+ 
+- 😎 I am a software engineer with extensive experience in building complex solutions and implementing business logic for a wide range of companies, including startups, as a backend developer<br>
+- 📫 Shoot me an Email or add me on LinkedIn :)
 
 
 ## 🌐 Socials:
