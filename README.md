@@ -16,5 +16,5 @@ Hi, how are you? 👋
 | Project | Description |
 | --- | --- |
 | <a target="_blank" href="https://monet.com.co/"><img src="https://bookface-images.s3.amazonaws.com/small_logos/9022bb07e07eed25b12e81e3b1bc070e64b2e31b.png" alt="Monet" width="200" height="150"/></a> | Monet provides Instant cash-advances to employees in Latin America. We are a mobile app available to any employee with a recurring income and a bank account. |
-| <a target="_blank" href="https://apps.apple.com/ec/app/atua/id1643579766"><img src="https://atuarental.com/assets/images/atua.svg" alt="Atua" width="200" height="250"/></a> | Community marketplace for people to list, discover, and book unique cars around the world |
+
 
